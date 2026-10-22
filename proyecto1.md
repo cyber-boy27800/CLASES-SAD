@@ -1,7 +1,7 @@
 <img width="1920" height="1080" alt="{6BDE40AA-463D-4B79-B1B1-BD1B562768AA}" src="https://github.com/user-attachments/assets/a6b7ef38-fce8-41a7-8647-c066e082650d" />
 <img width="1031" height="776" alt="jhon password" src="https://github.com/user-attachments/assets/6a0b2c6c-fec2-46f8-88c4-eab9d0fc8266" />
 <img width="1919" height="1079" alt="contraseña en extension" src="https://github.com/user-attachments/assets/536cf659-6c98-4e7c-b2aa-30d9b5c534c6" />
-<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/cda05d31-d251-414d-8694-0af8d7cb0c0b" /> 
+<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/0b5d1ffc-fbc5-44a3-ac98-3df8e4e92737" /> 
 
 
 
