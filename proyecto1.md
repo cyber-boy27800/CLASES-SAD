@@ -2,6 +2,7 @@
 <img width="1031" height="776" alt="jhon password" src="https://github.com/user-attachments/assets/6a0b2c6c-fec2-46f8-88c4-eab9d0fc8266" />
 <img width="1919" height="1079" alt="contraseña en extension" src="https://github.com/user-attachments/assets/536cf659-6c98-4e7c-b2aa-30d9b5c534c6" />
 <img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/0b5d1ffc-fbc5-44a3-ac98-3df8e4e92737" /> 
+<img width="1919" height="1079" alt="AdobeExpressPhotos_67410d7786ea441ca10ce7bf75c7ca4b_CopyEdited" src="https://github.com/user-attachments/assets/b41c35bc-1931-4079-beea-4adf9b67e6c4" />
 
 
 
